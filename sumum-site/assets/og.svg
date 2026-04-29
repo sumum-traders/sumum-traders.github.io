@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#fbfbfa"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#0a4a7a"/>
+  <rect x="0" y="622" width="1200" height="8" fill="#0a4a7a"/>
+  <text x="80" y="200" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="72" font-weight="700" fill="#1f2430">Sumum Traders LLP</text>
+  <text x="80" y="270" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="36" font-weight="400" fill="#5a6372">Building materials supply across South India</text>
+  <line x1="80" y1="320" x2="1120" y2="320" stroke="#e5e7ea" stroke-width="2"/>
+  <text x="80" y="380" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="28" font-weight="600" fill="#0a4a7a">Cement &#x2022; Steel &#x2022; Tiles &#x2022; Paints &#x2022; Pipes &#x2022; Electricals</text>
+  <text x="80" y="430" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="22" font-weight="400" fill="#1f2430">Kyathsandra, Tumakuru, Karnataka 572104</text>
+  <text x="80" y="465" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="22" font-weight="400" fill="#1f2430">26 cities served &#x2022; LLPIN AAE-3987 &#x2022; Incorporated 2015</text>
+  <text x="80" y="540" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="20" font-weight="400" fill="#5a6372">sumum.traders@gmail.com &#x2022; sumum-traders.github.io</text>
+</svg>
