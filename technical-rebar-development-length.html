@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#ffffff">
+<title>Rebar development length, lap length and anchorage</title>
+<meta name="description" content="Rebar development length calculations to ACI 318, IS 456 and EN 1992; worked example for Fe 500 D in M30 concrete with Class B laps and hooks.">
+<link rel="canonical" href="https://sumum-traders.github.io/technical-rebar-development-length.html">
+<link rel="stylesheet" href="/assets/styles.css">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Sumum Traders LLP">
+<meta property="og:title" content="Rebar development length, lap length and anchorage">
+<meta property="og:description" content="Rebar development length calculations to ACI 318, IS 456 and EN 1992; worked example for Fe 500 D in M30 concrete with Class B laps and hooks.">
+<meta property="og:url" content="https://sumum-traders.github.io/technical-rebar-development-length.html">
+<meta property="og:image" content="https://sumum-traders.github.io/assets/og.png">
+<meta property="og:locale" content="en_IN">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Rebar development length, lap length and anchorage">
+<meta name="twitter:description" content="Rebar development length calculations to ACI 318, IS 456 and EN 1992; worked example for Fe 500 D in M30 concrete with Class B laps and hooks.">
+<meta name="twitter:image" content="https://sumum-traders.github.io/assets/og.png">
+<meta name="geo.region" content="IN-KA">
+<meta name="geo.placename" content="Tumakuru, Karnataka">
+<meta name="geo.position" content="13.313;77.145">
+<meta name="ICBM" content="13.313, 77.145">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Sumum Traders LLP","legalName":"Sumum Traders LLP","identifier":"LLPIN AAE-3987","email":"sumum.traders@gmail.com","foundingDate":"2015-12-17","url":"https://sumum-traders.github.io/","logo":"https://sumum-traders.github.io/assets/og.png","address":{"@type":"PostalAddress","streetAddress":"Kyathsandra","addressLocality":"Tumakuru","addressRegion":"Karnataka","postalCode":"572104","addressCountry":"IN"},"geo":{"@type":"GeoCoordinates","latitude":13.313,"longitude":77.145},"founder":[{"@type":"Person","name":"Syed Sumair"},{"@type":"Person","name":"Syed Umair Ulla"},{"@type":"Person","name":"Maha Jabeen"}],"areaServed":[{"@type":"City","name":"Tumakuru"},{"@type":"City","name":"Bengaluru"},{"@type":"City","name":"Chennai"},{"@type":"City","name":"Hyderabad"},{"@type":"City","name":"Coimbatore"},{"@type":"City","name":"Kochi"},{"@type":"City","name":"Visakhapatnam"},{"@type":"City","name":"Madurai"},{"@type":"City","name":"Vijayawada"},{"@type":"City","name":"Thiruvananthapuram"},{"@type":"City","name":"Mysuru"},{"@type":"City","name":"Tiruchirappalli"},{"@type":"City","name":"Salem"},{"@type":"City","name":"Kozhikode"},{"@type":"City","name":"Guntur"},{"@type":"City","name":"Tirunelveli"},{"@type":"City","name":"Mangaluru"},{"@type":"City","name":"Thrissur"},{"@type":"City","name":"Warangal"},{"@type":"City","name":"Nellore"},{"@type":"City","name":"Puducherry"},{"@type":"City","name":"Kollam"},{"@type":"City","name":"Erode"},{"@type":"City","name":"Tirupati"},{"@type":"City","name":"Rajahmundry"},{"@type":"City","name":"Hubballi-Dharwad"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Rebar development length, lap length and anchorage","url":"https://sumum-traders.github.io/technical-rebar-development-length.html","inLanguage":"en"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://sumum-traders.github.io/index.html"},{"@type":"ListItem","position":2,"name":"Technical","item":"https://sumum-traders.github.io/technical.html"},{"@type":"ListItem","position":3,"name":"Rebar development length","item":"https://sumum-traders.github.io/technical-rebar-development-length.html"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"TechArticle","headline":"Rebar development length, lap length and anchorage","datePublished":"2026-04-18","dateModified":"2026-04-18","author":{"@type":"Organization","name":"Sumum Traders LLP"}}</script>
+</head>
+<body>
+<header class="site-header">
+<div class="brand"><a href="index.html">Sumum Traders LLP</a></div>
+<nav class="site-nav" aria-label="Primary">
+<a href="index.html">Home</a>
+<a href="categories.html">Categories</a>
+<a href="blog.html">Blog</a>
+<a href="technical.html">Technical</a>
+<a href="brands.html">Brands</a>
+<a href="faq.html">FAQ</a>
+<a href="glossary.html">Glossary</a>
+<a href="contact.html">Contact</a>
+</nav>
+</header>
+<main><section class="hero">
+<nav aria-label="Breadcrumb"><a href="index.html">Home</a> &rsaquo; <a href="technical.html">Technical</a> &rsaquo; <span>Rebar development length</span></nav>
+<h1>Rebar development length, lap length and anchorage</h1>
+<p>This article sets out the development length, lap length and anchorage calculations required to design and detail reinforced concrete elements. The approach follows <a href="https://www.concrete.org/" target="_blank" rel="noopener noreferrer">ACI 318-19 Chapter 25</a>, <a href="https://www.bis.gov.in/" target="_blank" rel="noopener noreferrer">IS 456 Clause 26.2</a> and <a href="https://www.cencenelec.eu/" target="_blank" rel="noopener noreferrer">EN 1992-1-1 Section 8</a>, with a worked example for an Fe 500 D bar in M30 concrete typical of residential and commercial RCC work across Tumakuru, Bengaluru, Chennai, Hyderabad, Coimbatore and Kochi.</p>
+</section>
+<section>
+<h2>Governing equations</h2>
+<p>Development length in tension under IS 456 Clause 26.2.1 is given by the expression <em>L<sub>d</sub></em> equals <em>phi</em> times <em>sigma<sub>s</sub></em> divided by four times <em>tau<sub>bd</sub></em>, where <em>phi</em> is the bar diameter, <em>sigma<sub>s</sub></em> is the design stress in the bar under the design load case, and <em>tau<sub>bd</sub></em> is the design bond stress for the concrete grade and bar type. For deformed bars in tension, the design bond stress values tabulated in IS 456 Table are 1.2, 1.4, 1.5, 1.7 and 1.9 N per square millimetre for concrete grades M20, M25, M30, M35 and M40 respectively. The tabulated values are for plain bars; for deformed bars the values are increased by sixty percent.</p>
+<p>Under ACI 318 Chapter 25 the tension development length is computed from the more detailed expression that includes modification factors for bar location, epoxy coating, bar size, lightweight concrete, cover and confining transverse reinforcement. A Class B tension lap splice, which is the default where more than half of the bars are lapped at the same location, is 1.3 times the development length, and in no case less than 300 millimetres.</p>
+</section>
+<section>
+<h2>Worked example: Fe 500 D twenty-millimetre bar in M30 concrete</h2>
+<p>Consider a twenty-millimetre Fe 500 D bar embedded in M30 concrete, with the bar acting in tension at its full design yield stress of 0.87 times 500 which equals 435 N per square millimetre. The design bond stress for M30 from IS 456 Table is 1.5 N per square millimetre; increased by sixty percent for deformed bars gives 2.4 N per square millimetre.</p>
+<p>Development length: L<sub>d</sub> equals 20 times 435 divided by four times 2.4, which equals 8700 divided by 9.6, which gives 906 millimetres. This rounds up to 910 millimetres in a detailing note. A Class B tension lap for the same bar is 1.3 times 910 which equals 1183 millimetres, rounded to 1200 millimetres. A standard 90-degree hook under IS 456 Clause 26.2.2.1 has a straight anchorage length beyond the bend of eight bar diameters, which is 160 millimetres, and the hook itself contributes a development length equivalent to sixteen bar diameters, so the total development beyond the critical section with a hook is 320 millimetres.</p>
+</section>
+<section>
+<h2>Modification factors under ACI 318</h2>
+<table>
+<caption>Modification factors in the ACI 318-19 simplified expression</caption>
+<thead><tr><th>Factor</th><th>Meaning</th><th>Typical values</th></tr></thead>
+<tbody>
+<tr><td>psi<sub>t</sub></td><td>Bar location</td><td>1.3 for top bars with more than 300 mm fresh concrete below; 1.0 otherwise</td></tr>
+<tr><td>psi<sub>e</sub></td><td>Epoxy coating</td><td>1.5 for epoxy with clear cover less than 3 d<sub>b</sub>; 1.2 otherwise; 1.0 uncoated</td></tr>
+<tr><td>psi<sub>s</sub></td><td>Bar size</td><td>0.8 for bars up to 19 mm; 1.0 for 22 mm and larger</td></tr>
+<tr><td>lambda</td><td>Lightweight concrete</td><td>0.75 for lightweight; 1.0 for normal weight</td></tr>
+<tr><td>c<sub>b</sub></td><td>Smaller of cover or half the bar spacing</td><td>Determined from detailing</td></tr>
+<tr><td>K<sub>tr</sub></td><td>Confining transverse reinforcement</td><td>Computed from stirrup area and spacing</td></tr>
+</tbody>
+</table>
+<p>The product of these factors modifies the basic development length, and the composite expression is capped so that the combined factor for bar location and coating does not exceed 1.7.</p>
+</section>
+<section>
+<h2>Typical detailing outcomes</h2>
+<table>
+<caption>Indicative development and lap lengths for Fe 500 D in M25 and M30 concrete</caption>
+<thead><tr><th>Bar size</th><th>L<sub>d</sub> in M25 (mm)</th><th>L<sub>d</sub> in M30 (mm)</th><th>Class B lap in M30 (mm)</th></tr></thead>
+<tbody>
+<tr><td>10 mm</td><td>485</td><td>455</td><td>595</td></tr>
+<tr><td>12 mm</td><td>580</td><td>545</td><td>715</td></tr>
+<tr><td>16 mm</td><td>775</td><td>725</td><td>945</td></tr>
+<tr><td>20 mm</td><td>970</td><td>910</td><td>1185</td></tr>
+<tr><td>25 mm</td><td>1210</td><td>1135</td><td>1480</td></tr>
+<tr><td>32 mm</td><td>1550</td><td>1455</td><td>1895</td></tr>
+</tbody>
+</table>
+<p>The values in the table assume deformed bars in tension at the design yield stress, with no top-bar increase and no epoxy coating. Designers should adjust for modification factors as applicable and should in every case round up to the nearest fifty millimetres when issuing detailing drawings.</p>
+</section>
+<section>
+<h2>Staggering and splice location</h2>
+<p>IS 456 Clause 26.2.5.1 requires that laps be staggered such that no more than fifty percent of the bars are spliced at any one section, and that laps be located in regions of low stress. In a beam this usually means locating laps in the compression zone at mid-span rather than at the support, and in a column it means locating laps above the floor slab in the lower third of the storey height rather than at the joint. Mechanical couplers conforming to IS 16172 are preferred for bars larger than 32 millimetres, and mandatory where the lap length would be impractical or where bar congestion would prevent proper concrete placement.</p>
+</section>
+<section>
+<h2>Related pages</h2>
+<p>See the companion technical articles on <a href="technical-mortar-mix-ratios.html">mortar mix ratios</a>, <a href="technical-concrete-curing.html">concrete curing</a> and <a href="technical-mcb-rccb-sizing.html">MCB and RCCB sizing</a>. The <a href="category-steel-rebar.html">steel and rebar category page</a> carries the grade selection table and brand roster referenced here.</p>
+</section>
+<section id="footprint">
+<h2>South India service footprint</h2>
+<table>
+<caption>South India cities we regularly serve</caption>
+<thead><tr><th>City</th><th>State or UT</th><th>Relevance</th></tr></thead>
+<tbody>
+<tr><td>Tumakuru</td><td>Karnataka</td><td>Home base &mdash; Sumum Traders LLP yard, Kyathsandra</td></tr>
+<tr><td>Bengaluru</td><td>Karnataka</td><td>High-rise and IT-park projects; principal regional corridor from Tumakuru</td></tr>
+<tr><td>Chennai</td><td>Tamil Nadu</td><td>Coastal construction with severe exposure; durable binders and CRS rebar demand</td></tr>
+<tr><td>Hyderabad</td><td>Telangana</td><td>Commercial and institutional RCC frames with ductile-grade reinforcement</td></tr>
+<tr><td>Coimbatore</td><td>Tamil Nadu</td><td>Industrial sheds and textile units; steel sections and pipe fabrication</td></tr>
+<tr><td>Kochi</td><td>Kerala</td><td>Severe coastal zone; PSC binders and corrosion-resistant rebar preferred</td></tr>
+<tr><td>Visakhapatnam</td><td>Andhra Pradesh</td><td>Port and petrochemical works; sulphate-resisting binders and industrial electricals</td></tr>
+<tr><td>Madurai</td><td>Tamil Nadu</td><td>Temple precinct and commercial RCC; general civil supply</td></tr>
+<tr><td>Vijayawada</td><td>Andhra Pradesh</td><td>Amaravati corridor civil works and infrastructure pours</td></tr>
+<tr><td>Thiruvananthapuram</td><td>Kerala</td><td>Government and institutional building; durable-binder specifications</td></tr>
+<tr><td>Mysuru</td><td>Karnataka</td><td>Heritage-sensitive and institutional work; white cement and finishing lines</td></tr>
+<tr><td>Tiruchirappalli</td><td>Tamil Nadu</td><td>BHEL-belt heavy-engineering foundations and steel fabrication</td></tr>
+<tr><td>Salem</td><td>Tamil Nadu</td><td>Steel-plant peripheral work and housing construction</td></tr>
+<tr><td>Kozhikode</td><td>Kerala</td><td>Coastal residential and commercial RCC; severe-exposure specifications</td></tr>
+<tr><td>Guntur</td><td>Andhra Pradesh</td><td>Agri-cold-storage and commercial RCC; mixed-use development supply</td></tr>
+<tr><td>Tirunelveli</td><td>Tamil Nadu</td><td>Wind-farm and infrastructure pours requiring low-heat binders</td></tr>
+<tr><td>Mangaluru</td><td>Karnataka</td><td>Severe coastal zone III; CRS rebar and PSC binders standard</td></tr>
+<tr><td>Thrissur</td><td>Kerala</td><td>Gulf-remittance residential and commercial construction</td></tr>
+<tr><td>Warangal</td><td>Telangana</td><td>Tier-2 growth city; residential and educational construction</td></tr>
+<tr><td>Nellore</td><td>Andhra Pradesh</td><td>Thermal-power and port-adjacent work with sulphate soils</td></tr>
+<tr><td>Puducherry</td><td>Puducherry</td><td>Coastal tourism and institutional RCC requiring durability binders</td></tr>
+<tr><td>Kollam</td><td>Kerala</td><td>Backwater-adjacent construction with moderate-heat PSC and PPC</td></tr>
+<tr><td>Erode</td><td>Tamil Nadu</td><td>Textile and housing RCC; general civil supply</td></tr>
+<tr><td>Tirupati</td><td>Andhra Pradesh</td><td>Pilgrim-infrastructure and institutional building</td></tr>
+<tr><td>Rajahmundry</td><td>Andhra Pradesh</td><td>Godavari-basin bridges and river-front RCC</td></tr>
+<tr><td>Hubballi-Dharwad</td><td>Karnataka</td><td>Twin-city commercial and housing RCC; mixed demand</td></tr>
+</tbody>
+</table>
+</section>
+<section class="contact-cta" id="contact">
+<h2>Contact Sumum Traders LLP</h2>
+<p>For a quote, a BOQ review or a site despatch, write to <a href="mailto:sumum.traders@gmail.com">sumum.traders@gmail.com</a>. The Kyathsandra yard sits at <a href="https://www.google.com/maps/search/?api=1&amp;query=13.313,77.145" target="_blank" rel="noopener noreferrer">13.313 N, 77.145 E</a> on Google Maps.</p>
+</section>
+</main>
+<footer class="site-footer">
+<p>Sumum Traders LLP &middot; LLPIN AAE-3987 &middot; Kyathsandra, Tumakuru, Karnataka 572104 &middot; <a href="mailto:sumum.traders@gmail.com">sumum.traders@gmail.com</a></p>
+<p>Designated partners: Syed Sumair, Syed Umair Ulla and Maha Jabeen. Incorporated 17 December 2015 with the Registrar of Companies, Bangalore.</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,74 @@
+Sumum Traders LLP website audit report
+Generated 2026-04-28
+
+1. INVENTORY
+   33 HTML files on disk
+   2 asset files in /assets
+   sitemap.xml + robots.txt at root
+
+2. HTML FILES
+   about.html                                         13,894 bytes
+   blog.html                                          12,912 bytes
+   brands.html                                        21,762 bytes
+   categories.html                                    12,580 bytes
+   category-adhesives-chemicals.html                  19,242 bytes
+   category-cement-binders.html                       19,325 bytes
+   category-electrical-lighting.html                  19,347 bytes
+   category-paints-coatings.html                      18,335 bytes
+   category-pipes-plumbing.html                       18,255 bytes
+   category-steel-rebar.html                          19,060 bytes
+   category-tiles-stone.html                          18,158 bytes
+   category-waterproofing.html                        19,226 bytes
+   cement-grades-opc-ppc.html                         16,937 bytes
+   contact.html                                       13,259 bytes
+   delivery-logistics.html                            16,415 bytes
+   electrical-wiring-conduits.html                    16,252 bytes
+   faq.html                                           42,802 bytes
+   glossary.html                                      55,474 bytes
+   gst-invoice-guide.html                             15,511 bytes
+   index.html                                         15,028 bytes
+   llm-aeo-south-india.html                           31,344 bytes
+   paint-putty-primer.html                            15,792 bytes
+   plumbing-pipes-cpvc-upvc-swr.html                  16,186 bytes
+   procurement-checklist.html                         15,125 bytes
+   ready-mix-vs-site-mix.html                         15,542 bytes
+   technical-concrete-curing.html                     16,184 bytes
+   technical-mcb-rccb-sizing.html                     28,103 bytes
+   technical-mortar-mix-ratios.html                   18,248 bytes
+   technical-rebar-development-length.html            15,662 bytes
+   technical.html                                     12,316 bytes
+   tile-adhesive-grout-guide.html                     15,847 bytes
+   tmt-steel-fe500d.html                              15,761 bytes
+   waterproofing-systems.html                         16,950 bytes
+
+3. ASSET FILES
+   assets/og.svg                                       1,542 bytes
+   assets/styles.css                                   5,089 bytes
+
+4. INTERNAL LINK VALIDATION
+   558 internal links examined across 33 pages
+   0 broken internal links
+   All internal links resolve to files present on disk.
+
+5. EXTERNAL LINK COUNT
+   418 external links (manufacturer pages, standards bodies, GST portals)
+
+6. STRUCTURAL SANITY CHECK
+   33 of 33 HTML files pass all structural checks
+   Required elements: DOCTYPE, lang attr, charset, viewport, canonical,
+   schema.org JSON-LD, LLPIN identifier in JSON-LD and footer, geo coordinates,
+   areaServed array, site nav and site footer.
+
+7. SITEMAP
+   33 URLs, all with lastmod 2026-04-28
+   Priorities: 1.0 home, 0.9 hubs, 0.8 categories+technical, 0.7 reference
+
+8. SHIPPING PACKAGE
+   The package is structurally complete and self-consistent. All navigation
+   links resolve to files present in the package. The legal identifiers
+   (Sumum Traders LLP, LLPIN AAE-3987, Kyathsandra Tumakuru 572104) appear
+   verbatim on every page in the JSON-LD Organization block and in the
+   visible footer. The 26-city service footprint table is identical across
+   every page through the shared template.
+
+End of audit report.

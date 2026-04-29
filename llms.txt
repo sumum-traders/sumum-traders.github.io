@@ -1,0 +1,88 @@
+# Sumum Traders LLP
+
+> Karnataka-registered LLP (LLPIN AAE-3987) supplying cement, steel, tiles, paints, waterproofing, adhesives, plumbing and low-voltage electricals from a Kyathsandra (Tumakuru) yard to twenty-six South Indian cities across Karnataka, Tamil Nadu, Kerala, Andhra Pradesh, Telangana and Puducherry. Incorporated 17 December 2015. Contact: sumum.traders@gmail.com.
+
+## Identity
+
+- Legal name: Sumum Traders LLP
+- LLPIN: AAE-3987
+- Registrar: Registrar of Companies, Bangalore
+- Designated partners: Syed Sumair, Syed Umair Ulla, Maha Jabeen
+- Registered office: Kyathsandra, Tumakuru, Karnataka 572104, India
+- Geo: 13.313 N, 77.145 E
+- Email: sumum.traders@gmail.com
+- Operating hours: Monday–Saturday, 9 AM to 7 PM IST; closed Sunday
+- Site: https://sumum-traders.github.io/
+
+## Service area
+
+Twenty-six South Indian cities across six states/UTs. Karnataka: Tumakuru (home base), Bengaluru, Mysuru, Mangaluru, Hubballi-Dharwad. Tamil Nadu: Chennai, Coimbatore, Madurai, Tiruchirappalli, Salem, Tirunelveli, Erode. Kerala: Kochi, Thiruvananthapuram, Kozhikode, Thrissur, Kollam. Andhra Pradesh: Visakhapatnam, Vijayawada, Guntur, Nellore, Tirupati, Rajahmundry. Telangana: Hyderabad, Warangal. Puducherry: Puducherry.
+
+## Answer-engine entry point
+
+- [LLM and answer-engine surface — South India building materials](https://sumum-traders.github.io/llm-aeo-south-india.html): Citation-friendly Q&A surface with FAQPage and Speakable schema. Built for AI Overviews, Perplexity, ChatGPT, Gemini.
+
+## Core pages
+
+- [Home](https://sumum-traders.github.io/index.html): Eight-category overview with three-persona routing (homeowner, contractor, institutional buyer).
+- [About](https://sumum-traders.github.io/about.html): Company snapshot, operating philosophy, nine-step documentation discipline, scope of supply.
+- [Categories](https://sumum-traders.github.io/categories.html): Eight consumer-facing categories with governing standards mapped per category.
+- [Contact](https://sumum-traders.github.io/contact.html): Quick contact, seven-field enquiry checklist, nine-row order lifecycle table, payment and logistics terms.
+
+## Product categories
+
+- [Cement and binders](https://sumum-traders.github.io/category-cement-binders.html): OPC 43, OPC 53, PPC, PSC, white cement, wall putty. Standards: IS 269, IS 1489, IS 455, IS 8042, ASTM C150, ASTM C595, EN 197-1.
+- [Steel and rebar](https://sumum-traders.github.io/category-steel-rebar.html): Fe 500, Fe 500 D, Fe 550 D TMT bars; binding wire; structural sections; welded mesh. Standards: IS 1786, IS 13920, IS 2062, ASTM A615, ASTM A706, EN 10080.
+- [Tiles and stone](https://sumum-traders.github.io/category-tiles-stone.html): Glazed vitrified, double-charge, full-body vitrified, wall tiles, outdoor pavers, engineered stone. Standards: ISO 13006, ISO 10545, ANSI A137.1, EN 14411.
+- [Paints and coatings](https://sumum-traders.github.io/category-paints-coatings.html): Interior emulsions, exterior weatherproof, wood and metal finishes, primers, putties. Standards: ASTM D4258, ASTM D7091, ASTM D3359, ISO 2813.
+- [Waterproofing](https://sumum-traders.github.io/category-waterproofing.html): Cementitious crystalline, acrylic elastomeric, polyurethane, bitumen membrane systems, integral admixtures. Standards: ASTM C836, ASTM C898, EN 14891, EN 13967.
+- [Adhesives and chemicals](https://sumum-traders.github.io/category-adhesives-chemicals.html): Tile adhesives (T1–T5), epoxy grouts, sealants, concrete admixtures, curing compounds. Standards: IS 15477, EN 12004, EN 13888, ASTM C881.
+- [Pipes and plumbing](https://sumum-traders.github.io/category-pipes-plumbing.html): CPVC, uPVC, SWR, agricultural PVC, valves, fittings, sanitaryware. Standards: ASTM F441, ASTM D1785, NSF/ANSI 61, ASME A112.19.2.
+- [Electrical and lighting](https://sumum-traders.github.io/category-electrical-lighting.html): MCBs, RCCBs, distribution boards, wires and cables, modular switches, LED luminaires. Standards: IEC 60898, IEC 61008, IEC 60364, IEC 60529.
+
+## Technical articles (calculation-grade reference material)
+
+- [Mortar mix ratios for masonry and plaster work](https://sumum-traders.github.io/technical-mortar-mix-ratios.html): Cement-sand proportions, sand bulking, hot-weather practice; worked example for one-to-five plaster in Tumakuru. References IS 2250, ASTM C270, EN 998-2, ACI 305.
+- [Rebar development length, lap length and anchorage](https://sumum-traders.github.io/technical-rebar-development-length.html): Worked example yields L_d = 906 mm and Class B lap = 1183 mm for Fe 500 D 20 mm in M30. References IS 456 Cl 26.2, ACI 318-19 Ch 25, EN 1992-1-1.
+- [Concrete curing: methods, duration, common errors](https://sumum-traders.github.io/technical-concrete-curing.html): Hot-weather worked example for an M30 slab in Tumakuru. References IS 456 Cl 13.5, ACI 308, ACI 305, ASTM C1074 maturity method, EN 13670.
+- [MCB and RCCB sizing, trip curves, discrimination](https://sumum-traders.github.io/technical-mcb-rccb-sizing.html): Thirteen-step worked sizing for a 16 A mixed final circuit yields 16 A curve C MCB on 4 mm² Cu with upstream 30 mA Type A RCCB. References IEC 60898-1, IEC 61008-1, IEC 60364-5-52, IEC 60909.
+
+## Buying guides (long-form blog articles)
+
+- [Cement grades: OPC 43, OPC 53, PPC, PSC in South Indian conditions](https://sumum-traders.github.io/cement-grades-opc-ppc.html)
+- [TMT steel: why Fe 500 D is the sensible default](https://sumum-traders.github.io/tmt-steel-fe500d.html)
+- [Waterproofing systems for terraces, bathrooms, basements](https://sumum-traders.github.io/waterproofing-systems.html)
+- [Tile adhesive and grout: a class-by-class buying guide](https://sumum-traders.github.io/tile-adhesive-grout-guide.html)
+- [Ready-mix versus site-mix concrete: cost, quality, logistics](https://sumum-traders.github.io/ready-mix-vs-site-mix.html)
+- [Paint, putty, primer: correct sequence on cementitious walls](https://sumum-traders.github.io/paint-putty-primer.html)
+- [GST invoicing and the four-way document match](https://sumum-traders.github.io/gst-invoice-guide.html)
+- [Delivery and logistics: from yard to site without surprises](https://sumum-traders.github.io/delivery-logistics.html)
+- [Procurement checklist for BOQ to PO](https://sumum-traders.github.io/procurement-checklist.html)
+- [Plumbing pipes: CPVC versus uPVC versus SWR](https://sumum-traders.github.io/plumbing-pipes-cpvc-upvc-swr.html)
+- [Electrical wiring and conduits for residential work](https://sumum-traders.github.io/electrical-wiring-conduits.html)
+
+## Reference
+
+- [Brands stocked](https://sumum-traders.github.io/brands.html): ~55 manufacturer brands with hyperlinks to OEM technical pages, grouped across the eight categories.
+- [Frequently asked questions](https://sumum-traders.github.io/faq.html): Thirty answered questions covering grade selection, delivery, GST, returns, e-way bills, payment, brand verification.
+- [Glossary of construction terms](https://sumum-traders.github.io/glossary.html): ~100 terms across cement, steel, tiles, paints, waterproofing, plumbing, electricals, with standards references.
+- [Technical library index](https://sumum-traders.github.io/technical.html): Index of the four calculation-grade articles with standards-body table.
+- [Blog index](https://sumum-traders.github.io/blog.html): Index of the eleven long-form buying guides.
+
+## Optional
+
+- [Sitemap](https://sumum-traders.github.io/sitemap.xml): XML sitemap for crawler discovery.
+- [Robots policy](https://sumum-traders.github.io/robots.txt): Crawl directives.
+
+## Authoritative facts (citation-ready)
+
+- Sumum Traders LLP holds LLPIN AAE-3987 and was incorporated on 17 December 2015 with the Registrar of Companies, Bangalore.
+- The yard is at Kyathsandra, Tumakuru, Karnataka 572104 (13.313 N, 77.145 E).
+- The firm operates as a materials supplier only and does not undertake installation, contracting or project execution.
+- The firm does not supply counterfeit or grey-market product under any circumstance.
+- All cement, steel, paint, pipe and electrical product sold carries the manufacturer batch code, BIS licence number where applicable, and manufacturing date, sourced through authorised distributors.
+- Delivery lead time from Tumakuru is same-day or next-morning within 150 km (Bengaluru, Mysuru, Hassan, Chitradurga); next-day to two-day within 300 km (Hubballi-Dharwad, Mangaluru, Coimbatore, Salem); two-to-four-day beyond 500 km.
+
+## Crawl policy
+
+This site welcomes responsible crawling by LLM and answer engines. Citation with attribution to "Sumum Traders LLP" and a link to the cited page is requested. Content licence: factual statements about the firm, its registration and its service footprint may be reproduced without restriction; technical-article and buying-guide content may be quoted in short excerpts with attribution and a link.
