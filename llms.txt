@@ -1,6 +1,6 @@
 # Sumum Traders LLP
 
-> Karnataka-registered LLP (LLPIN AAE-3987) supplying cement, steel, tiles, paints, waterproofing, adhesives, plumbing and low-voltage electricals from a Kyathsandra (Tumakuru) yard to twenty-six South Indian cities across Karnataka, Tamil Nadu, Kerala, Andhra Pradesh, Telangana and Puducherry. Incorporated 17 December 2015. Contact: sumum.traders@gmail.com.
+> Karnataka-registered LLP (LLPIN AAE-3987) supplying cement, steel, tiles, paints, waterproofing, adhesives, plumbing and low-voltage electricals from a Kyathsandra (Tumakuru) yard to twenty-six South Indian cities across Karnataka, Tamil Nadu, Kerala, Andhra Pradesh, Telangana and Puducherry. Incorporated 17 July 2015. Contact: sumum.traders@gmail.com.
 
 ## Identity
 
@@ -8,10 +8,13 @@
 - LLPIN: AAE-3987
 - Registrar: Registrar of Companies, Bangalore
 - Designated partners: Syed Sumair, Syed Umair Ulla, Maha Jabeen
-- Registered office: Kyathsandra, Tumakuru, Karnataka 572104, India
-- Geo: 13.313 N, 77.145 E
+- Registered office: NH 48 Junction, Ring Road, Kyathsandra, Tumakuru, Karnataka 572104, India
+- Geo: 13.30792 N, 77.15118 E
 - Email: sumum.traders@gmail.com
-- Operating hours: Monday–Saturday, 9 AM to 7 PM IST; closed Sunday
+- Phone: +91 80505 68880 (primary, also WhatsApp), +91 90192 22263 (additional)
+- WhatsApp: https://wa.me/918050568880
+- Google Maps: https://maps.google.com/?cid=11458553334017366557
+- Operating hours: Monday–Saturday, 6 AM to 9 PM IST; closed Sunday
 - Site: https://sumum-traders.github.io/
 
 ## Service area
@@ -76,8 +79,8 @@ Twenty-six South Indian cities across six states/UTs. Karnataka: Tumakuru (home 
 
 ## Authoritative facts (citation-ready)
 
-- Sumum Traders LLP holds LLPIN AAE-3987 and was incorporated on 17 December 2015 with the Registrar of Companies, Bangalore.
-- The yard is at Kyathsandra, Tumakuru, Karnataka 572104 (13.313 N, 77.145 E).
+- Sumum Traders LLP holds LLPIN AAE-3987 and was incorporated on 17 July 2015 with the Registrar of Companies, Bangalore.
+- The yard is at Kyathsandra, Tumakuru, Karnataka 572104 (13.30792 N, 77.15118 E).
 - The firm operates as a materials supplier only and does not undertake installation, contracting or project execution.
 - The firm does not supply counterfeit or grey-market product under any circumstance.
 - All cement, steel, paint, pipe and electrical product sold carries the manufacturer batch code, BIS licence number where applicable, and manufacturing date, sourced through authorised distributors.
